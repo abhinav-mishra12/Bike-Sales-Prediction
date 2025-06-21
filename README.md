@@ -70,16 +70,14 @@ To build a machine learning model that accurately predicts bike purchases based 
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
+```text
 bike-purchase-prediction/
-├── data/ # Raw and processed data files
-├── notebooks/ # Jupyter notebooks for EDA and modeling
-├── models/ # Saved model files
-├── images/ # Plots and graphs used in the analysis
-├── src/ # Source code for functions and preprocessing
-├── README.md # Project documentation
-└── requirements.txt # Python packages required
-
-
-
+├── data/           # Raw and processed data files
+├── notebooks/      # Jupyter notebooks for EDA and modeling
+├── models/         # Saved model files
+├── images/         # Plots and graphs used in the analysis
+├── src/            # Source code for functions and preprocessing
+├── README.md       # Project documentation
+└── requirements.txt# Python packages required
