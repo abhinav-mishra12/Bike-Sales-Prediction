@@ -81,3 +81,27 @@ bike-purchase-prediction/
 ├── src/            # Source code for functions and preprocessing
 ├── README.md       # Project documentation
 └── requirements.txt# Python packages required
+
+---
+
+## 🧪 Results
+
+- **KNN**  
+  - Accuracy: `72.25%`  
+  - ROC-AUC: `77.23`
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+📬 Contact
+For any queries, feel free to reach out at:
+📧 mishra.k.abhinav@gmail.com
